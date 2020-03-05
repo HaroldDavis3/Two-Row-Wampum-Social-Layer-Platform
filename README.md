@@ -1,4 +1,4 @@
-# Animal Kingdom Sample app
+# Special Thanks to Original Repo: Animal Kingdom Sample app
 
 This sample app allows a user to create their own animal kingdom. They create their own
 animal persona and then populate their kingdom with rulers or subjects of other kingdoms
