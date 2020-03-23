@@ -127,6 +127,34 @@ export const ABOUT = [
    id: '17',
    name: '17',
    superpower: ''
+<<<<<<< HEAD
+  },
+  {
+   id: '18',
+   name: '18',
+   superpower: ''
+  },
+  {
+   id: '19',
+   name: '19',
+   superpower: ''
+  },
+  {
+   id: '20',
+   name: '20',
+   superpower: ''
+  },
+  {
+   id: '21',
+   name: '21',
+   superpower: ''
+  },
+  {
+   id: '22',
+   name: '22',
+   superpower: ''
+=======
+>>>>>>> 159a64a60852efaa621f9ae59134585e07578a52
    }]
 export const MISSION = [
       {
