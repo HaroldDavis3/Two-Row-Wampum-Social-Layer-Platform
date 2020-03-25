@@ -42,6 +42,8 @@
 
 ![22](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/22.jpg)
 
+![23](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/23.jpg)
+
 
 
 
@@ -82,6 +84,9 @@
 - **Partially (Pre)fabricated Kit**- For a more intermediate prosumption experience or education as a member of a local system. These kits are made for a smooth prosumption experience. Some production & manufacturing happens as part of customer/system experience. For those that wish to incorporate a home artisan kind of model into their system, this may serve as a viable onboarding & training means that can put todays gig apps onboarding & skills training models to shame. In this latter case any machine R+D done in above tier can be utilized in this tier; making conditions ripe for innovation as customers/system members move between tiers.   
 
 - **Most (Pre)fabricated Kit**- For a beginner's prosumption experience or education as a member of a local system. These kits are made for the smoothest prosumption experience, while emphasizing the consideration of all aspects of the full lifecycle, labor & supply chain(human & nonhuman) in the system the in which the kit was produced. Little production & manufacturing happens as part of customer/system experience; but just enough to give a sweet taste of furthering your prosumption system experience as an active participant. Incentives and benefits designed to make any given base interested in much more than surface level incentives like a new landscape of better paying gig economy or new end of life consumption opportunity; but rather a way toward bottom up sustainable sytems building.
+
+# What the Above looks like in Context of Our Social Layer Mission
+![Corridorlayout](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/23.jpg "Corridor'sCircles")
 
 # Away from Conventional Industrial Extraction & Towards Artisanal & Indigenous Modes of Production
 
