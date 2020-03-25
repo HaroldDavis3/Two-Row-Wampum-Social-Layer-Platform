@@ -47,31 +47,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Also Integrated In This Platform
 
 
 # collabora-blockstack
-Collabora documentation here: https://www.collaboraoffice.com/code/
 
-Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 
 ![Data](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Data.jpg "Data")
 
@@ -86,6 +66,8 @@ Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 # Example: **Prosumption based Systems Design Approach to MakeUp (Kits) Design**
 
 [![DOCUMENTATION GOALS!](http://img.youtube.com/vi/pd9GxmQbJ9U/0.jpg)](http://www.youtube.com/watch?v=pd9GxmQbJ9U)
+
+#Video ^^^
 
 - **Production Facing**: AI/Data sets services & IoTs help optimize sustainable modes of production(regenerative **not** extractive, hence the AI for closed loops of value circulation!) needs of local & regional raw materials for MakeUp kits. App developers should also see responsibilities that come with building apps beyond surface levels of new landsccapes of revenue streams. Afterall these apps will be capable of onboarding, training, organizing, & managing **people and ecosystems**; along with securing the data of those people & ecosystems doing said production labor and or engineering.
 
@@ -132,6 +114,18 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 
 # Public Utility App Chain Status
 Blockstack has paved an important path toward approaches to blockchain models.The models described in above sections make sure to leverage work done by Blockstack PBC in the way of aquiring public utility status from the SEC. This will be a valuable tool in the way of our corridor of indigenous trade efforts in the TRW social layer mission and to those interested in involving their efforts via non profit efforts that can constitute the beginning of necessary paradigm shifts in both data collection/app creation/monetization. 
+
+
+
+
+
+
+
+# Building Collabora
+
+Collabora documentation here: https://www.collaboraoffice.com/code/
+
+Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 
 
 # dockerize a React app tutorial
