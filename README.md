@@ -1,16 +1,16 @@
-![1](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/1.jpg)
+![1](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/1.jpg)
 
-![2](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/2.jpg)
+![2](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/2.jpg)
 
-![3](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/3.jpg)
+![3](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/3.jpg)
 
-![4](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/4.jpg)
+![4](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/4.jpg)
 
-![5](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/5.jpg)
+![5](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/5.jpg)
 
-![6](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/6.jpg)
+![6](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/6.jpg)
 
-![7](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/7.jpg)
+![7](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/7.jpg)
 
 ![8](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/8.jpg)
 
@@ -24,9 +24,9 @@
 
 ![13](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/13.jpg)
 
-![14](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/14.jpg)
+![14](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/14.jpg)
 
-![15](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/15.jpg)
+![15](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/15.jpg)
 
 ![16](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/16.jpg)
 
