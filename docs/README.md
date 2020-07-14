@@ -72,9 +72,10 @@ Follow Our Progress. Join Us.
 ![15](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/15.jpg)
 ![16](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/16.jpg)
 
-## **Stacks Chain v.2**
+# **Stacks Chain v.2**
 
 ![19](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/19.jpg)
+
 # App Chains & A Path Toward Indigenous Modes of Transaction & Trade
 > The coming functionality of the Stacks chain from Blockstack will enable chains to be built atop of the existing Stacks chain. The same means of doing so, through a recent consensus algorithm proposal PoX(Proof of Transfer) will enable chains to be built atop of said new chains. A current draft of Token Economics for our mission in the Two Row Wampum Social Layer platform will explicitly state that the building of our first chain will be solely as a means to build a NFT chain(NonFungibleToken). This last chain will not function in a non-native economics context but in an indigenous modes of transaction i.e barter & trade context. Distinct from modern economic systems; this approach to regulated and managed trade is based in an never ending effort to establish **balance** between autonomous entities who have agreed to Peace in all interactions with one another as well as ecosystems in which they live.
 The ultimate goal will be to get back to producing physical Onakora as a means to transactions & trade. The first chain while fungible(for time needed until self sufficiency of second chain), will function similar to non profit models; building out a Native Matrilineal council managed corridor of trade that follows native protocols of bottom up organization & consensus decision making. We have access to a Traditional council with unique jurisprudence which may make legal Nation level approval of blockchains & novel exchange structures innovations based in indigenous modes of production & trade, easier for our platform than others. But no worries the corridor is accessible to all who want to be involved in the proper relationship to the hemisphere! All that is needed is **DIALOGUE** through the Two Row Wampum Peace Treaty & working group council! The model described in above sections extrapolated across fields of artisanal crafts & indigenous modes of production; will constitute how app/service specific chains can act as an authentic non profit public expressive commons for our mission of the Two Row Wampum Social Layer. First attracting chain support via enabling important R+D in global SDGs efforts(with added protections against modern iterations of colonialism)open to all; but then grow organically into autonomous, self sustaining systems, as our systems prototypes & PoCs will invoke a *living research* approach.
@@ -87,11 +88,11 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 ![21](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/21.jpg)
 ![22](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/22.jpg)
 
-## **Local & Regional Data Control**
+# **Local & Regional Data Control**
 ![Data](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Data.jpg "Data")
 
 
-## **(Pro)sumption based Systems Design**
+# **(Pro)sumption based Systems Design**
 > This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**. 
 > The former will largley happen outside of this specific project; in the Collections Project of Blockstack. There, schemas can be built out as innovative commons of technology that represents a two way dialogue between developers and folks who specialize in data. Collections schemas are focused on providing data portability. These schemas can be designed to lend themselves to MIDs & important paradigm shifts in what is considred *high value data*.
   
@@ -99,7 +100,7 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
   
 > This can enable a tangible path towards ethical forms of data collection monetization & app monetization through management of data (local & regional MIDs,DAOs) serve as public utilities. Data specialists & App developers in web 3.0 who adopt a systems design approach in this context can build apps and data services that serve critical roles in production, manufacturing, or distribution of prosumption based models. All data can be client side and encrypted for all involved in the systems model.
   
-# Example: **Prosumption based Systems Design Approach to MakeUp (Kits) Design**
+# Example:**Prosumption based Systems Design Approach to MakeUp (Kits) Design**
 [![DOCUMENTATION GOALS!](http://img.youtube.com/vi/pd9GxmQbJ9U/0.jpg)](http://www.youtube.com/watch?v=pd9GxmQbJ9U)
 #Video ^^^
 - **Production Facing**: AI/Data sets services & IoTs help optimize sustainable modes of production  needs of local & regional raw materials for MakeUp kits(regenerative **not** extractive, hence the AI for closed loops of value circulation!). App developers should also see responsibilities that come with building apps beyond surface levels of new landsccapes of revenue streams. Afterall these apps will be capable of onboarding, training, organizing, & managing **people and ecosystems**; along with securing the data of those people & ecosystems doing said production labor and or engineering.
