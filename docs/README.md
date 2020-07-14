@@ -48,7 +48,10 @@ Follow Our Progress. Join Us.
   
 
 # **Whitepaper Rough Draft** 
-![1](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/1.jpg)
+![1][draft]
+
+[draft]: https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/1.jpg "tworowlayer"
+
 ![2](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/2.jpg)
 ![3](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/3.jpg)
 ![4](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/4.jpg)
