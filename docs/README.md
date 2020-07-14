@@ -19,19 +19,19 @@ Follow Our Progress. Join Us.
 
   
 
-[**Stacks Chain v.2**](#Stacks-Chain-v.2)
+[**Stacks2 Chain**](#Stacks2-Chain)
 
   
 
-[**Onakora Chain 1.0 + 2.0**](#Onakora-Chain-1.0-+-2.0)
+[**Onakora Chain**](#Onakora-Chain)
 
   
 
-[**Local & Regional Data Control**](#Local-&-Regional-Data-Control)
+[**Local/Regional Data](#Local/Regional-Data)
 
   
 
-[**(Pro)sumption based Systems Design**](#(Pro)sumption-based-Systems-Design)
+[**(Pro)sumption Systems**](#(Pro)sumption-Systems)
 
   
 
@@ -74,7 +74,7 @@ Follow Our Progress. Join Us.
 
 
 
-# **Stacks Chain v.2**
+# **Stacks2 Chain**
 
 ![19](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/19.jpg)
 
@@ -85,16 +85,16 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 > Blockstack has paved an important path toward approaches to blockchain models.The models described in above sections make sure to leverage work done by Blockstack PBC in the way of acquiring public utility status from the SEC. This will be a valuable tool in the way of our corridor of indigenous trade efforts in the TRW social layer mission and to those interested in involving their efforts via non profit efforts that can constitute the beginning of necessary paradigm shifts in both data collection/app creation/monetization.
 
 
-# **Onakora Chain 1.0 + 2.0**
+# **Onakora Chain**
 ![20](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/20.jpg)
 ![21](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/21.jpg)
 ![22](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/22.jpg)
 
-# **Local & Regional Data Control**
+# **Local/Regional Data**
 ![Data](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Data.jpg "Data")
 
 
-# **(Pro)sumption based Systems Design**
+# **(Pro)sumption Systems**
 > This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**. 
 > The former will largley happen outside of this specific project; in the Collections Project of Blockstack. There, schemas can be built out as innovative commons of technology that represents a two way dialogue between developers and folks who specialize in data. Collections schemas are focused on providing data portability. These schemas can be designed to lend themselves to MIDs & important paradigm shifts in what is considred *high value data*.
   
