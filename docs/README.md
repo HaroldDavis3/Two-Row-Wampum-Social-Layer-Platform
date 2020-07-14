@@ -1,7 +1,5 @@
 # Two Row Wampum Social Layer
 
-Follow Our Progress. Join Us.
-
 [**Whitepaper Rough Draft**](#Whitepaper-Rough-Draft)
 
   
