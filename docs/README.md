@@ -2,11 +2,6 @@
 
 Follow Our Progress. Join Us.
 
->   
->   
-
-  
-
 [**Whitepaper Rough Draft**](#Whitepaper-Rough-Draft)
 
   
