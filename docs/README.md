@@ -49,32 +49,29 @@ Follow Our Progress. Join Us.
 
 # **Whitepaper Rough Draft** 
 ![1.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/1.jpg?raw=true)
-![2](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/2.jpg)
-![3](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/3.jpg)
-![4](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/4.jpg)
-![5](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/5.jpg)
-![6](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/6.jpg)
-![7](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/7.jpg)
-![8](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/8.jpg)
-
+![2.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/2.jpg?raw=true)
+![3.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/3.jpg?raw=true)
+![4.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/4.jpg?raw=true)
+![5.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/5.jpg?raw=true)
+![6.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/6.jpg?raw=true)
+![7.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/7.jpg?raw=true)
+![8.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/8.jpg?raw=true)
 ## **Matrilineal Development Council**
-![9](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/9.jpg)
-![10](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/10.jpg)
-![11](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/11.jpg)
-![12](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/12.jpg)
-
+![9.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/9.jpg?raw=true)
+![10.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/10.jpg?raw=true)
+![11.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/11.jpg?raw=true)
+![12.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/12.jpg?raw=true)
 ## **Call For Systems Prototypes**
-![13](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/13.jpg)
-![14](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/14.jpg)
-![15](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/15.jpg)
-![16](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/16.jpg)
+![13.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/13.jpg?raw=true)
+![14.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/14.jpg?raw=true)
+![15.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/15.jpg?raw=true)
+![16.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/16.jpg?raw=true)
 
 
 
 # **Stacks2 Chain**
 
-![19](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/19.jpg)
-
+![19.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/19.jpg?raw=true)
 # App Chains & A Path Toward Indigenous Modes of Transaction & Trade
 > The coming functionality of the Stacks chain from Blockstack will enable chains to be built atop of the existing Stacks chain. The same means of doing so, through a recent consensus algorithm proposal PoX(Proof of Transfer) will enable chains to be built atop of said new chains. A current draft of Token Economics for our mission in the Two Row Wampum Social Layer platform will explicitly state that the building of our first chain will be solely as a means to build a NFT chain(NonFungibleToken). This last chain will not function in a non-native economics context but in an indigenous modes of transaction i.e barter & trade context. Distinct from modern economic systems; this approach to regulated and managed trade is based in an never ending effort to establish **balance** between autonomous entities who have agreed to Peace in all interactions with one another as well as ecosystems in which they live.
 The ultimate goal will be to get back to producing physical Onakora as a means to transactions & trade. The first chain while fungible(for time needed until self sufficiency of second chain), will function similar to non profit models; building out a Native Matrilineal council managed corridor of trade that follows native protocols of bottom up organization & consensus decision making. We have access to a Traditional council with unique jurisprudence which may make legal Nation level approval of blockchains & novel exchange structures innovations based in indigenous modes of production & trade, easier for our platform than others. But no worries the corridor is accessible to all who want to be involved in the proper relationship to the hemisphere! All that is needed is **DIALOGUE** through the Two Row Wampum Peace Treaty & working group council! The model described in above sections extrapolated across fields of artisanal crafts & indigenous modes of production; will constitute how app/service specific chains can act as an authentic non profit public expressive commons for our mission of the Two Row Wampum Social Layer. First attracting chain support via enabling important R+D in global SDGs efforts(with added protections against modern iterations of colonialism)open to all; but then grow organically into autonomous, self sustaining systems, as our systems prototypes & PoCs will invoke a *living research* approach.
@@ -83,13 +80,12 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 
 
 # **Onakora Chain**
-![20](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/20.jpg)
-![21](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/21.jpg)
-![22](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/22.jpg)
+![20.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/20.jpg?raw=true)
+![21.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/21.jpg?raw=true)
+![22.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/22.jpg?raw=true)
 
 # **Local/Regional Data**
-![Data](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Data.jpg "Data")
-
+![Data](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/Data.jpg)
 
 # **(Pro)sumption Systems**
 > This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**. 
@@ -117,8 +113,7 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 - **Most (Pre)fabricated Kit**- For a beginner's prosumption experience or education as a member of a local system. These kits are made for the smoothest prosumption experience, while emphasizing the consideration of all aspects of the full lifecycle, labor & supply chain(human & nonhuman) in the system in which the kit was produced. Little production & manufacturing happens as part of customer/system experience; but just enough to give a sweet taste of furthering your prosumption system experience as an active participant. Incentives and benefits designed to make any given base interested in much more than surface level incentives like a new landscape of better paying gig economy or new end of life consumption opportunity; but rather a way toward bottom up sustainable systems building.
 
 # **Indigenous Modes**
-![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg "indigenousmodes")
-
+![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg)
 > The model described above can be Extrapolated across fields & disciplines to create a tangible path away from conventional industrial extraction & towards artisanal & indigenous modes of production. This wide breadth of said novel monetization landscapes for those in Data or app development represents yet another opportunity & responsibility to build a viable ethical alternative to the ugly ecosystem of data monetization under web 2.0's surface; which is so comprehensive that it requires a wicked alternative equally as comprehensive. The infrastructure for which can be actively built starting immediately via model description above & Blockstack's Collections project. (Imperative to all the above working is ~governance~ which in an indigenous bottom up organization approach is better termed-**management**. For Better understanding of this, we recommend our [Two Row Wampum Social Layer Platform Whitepaper](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform) latest draft can be easily viewed here:[website](https://socialayerdraft.netlify.com/) to learn & participate in the Legal *Indigenous Constitution* & proper relationship to the western hemisphere only accessible through the Two Row Wampum Peace Treaty).
 
 # Building Collabora
