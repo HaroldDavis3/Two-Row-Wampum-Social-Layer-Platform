@@ -23,7 +23,7 @@ Follow Our Progress. Join Us.
 
   
 
-[**Onakora Chain 1.0 + 2.0**](#Onakora-Chain-1.0 + 2.0)
+[**Onakora Chain 1.0 + 2.0**](#Onakora-Chain-1.0-+-2.0)
 
   
 
