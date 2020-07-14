@@ -27,11 +27,11 @@ Follow Our Progress. Join Us.
 
   
 
-[**Local/Regional Data**](#Local/Regional-Data)
+[**Local Data**](#Local-Data)
 
   
 
-[**(Pro)sumption Systems**](#(Pro)sumption-Systems)
+[**PROsumption Systems**](#PROsumption-Systems)
 
   
 
@@ -84,10 +84,10 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 ![21.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/21.jpg?raw=true)
 ![22.jpg](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/22.jpg?raw=true)
 
-# **Local/Regional Data**
+# **Local Data**
 ![Data](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/Data.jpg)
 
-# **(Pro)sumption Systems**
+# **PROsumption Systems**
 > This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**. 
 > The former will largley happen outside of this specific project; in the Collections Project of Blockstack. There, schemas can be built out as innovative commons of technology that represents a two way dialogue between developers and folks who specialize in data. Collections schemas are focused on providing data portability. These schemas can be designed to lend themselves to MIDs & important paradigm shifts in what is considred *high value data*.
   
