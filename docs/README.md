@@ -72,6 +72,8 @@ Follow Our Progress. Join Us.
 ![15](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/build/about/15.jpg)
 ![16](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/16.jpg)
 
+
+
 # **Stacks Chain v.2**
 
 ![19](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/19.jpg)
@@ -83,7 +85,7 @@ The ultimate goal will be to get back to producing physical Onakora as a means t
 > Blockstack has paved an important path toward approaches to blockchain models.The models described in above sections make sure to leverage work done by Blockstack PBC in the way of acquiring public utility status from the SEC. This will be a valuable tool in the way of our corridor of indigenous trade efforts in the TRW social layer mission and to those interested in involving their efforts via non profit efforts that can constitute the beginning of necessary paradigm shifts in both data collection/app creation/monetization.
 
 
-## **Onakora Chain 1.0 + 2.0**
+# **Onakora Chain 1.0 + 2.0**
 ![20](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/20.jpg)
 ![21](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/21.jpg)
 ![22](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/22.jpg)
