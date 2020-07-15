@@ -31,6 +31,7 @@
 [**Indigenous Modes**](#Indigenous-Modes)
 
   
+[**KERNEL**](#KERNEL)
 
   
 
@@ -117,6 +118,10 @@
 # **Indigenous Modes**
 ![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg)
 > The model described above can be Extrapolated across fields & disciplines to create a tangible path away from conventional industrial extraction & towards artisanal & indigenous modes of production. This wide breadth of said novel monetization landscapes for those in Data or app development represents yet another opportunity & responsibility to build a viable ethical alternative to the ugly ecosystem of data monetization under web 2.0's surface; which is so comprehensive that it requires a wicked alternative equally as comprehensive. The infrastructure for which can be actively built starting immediately via model description above & Blockstack's Collections project. (Imperative to all the above working is ~governance~ which in an indigenous bottom up organization approach is better termed-**management**. For Better understanding of this, we recommend our [Two Row Wampum Social Layer Platform Whitepaper](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform) latest draft can be easily viewed here:[website](https://socialayerdraft.netlify.com/) to learn & participate in the Legal *Indigenous Constitution* & proper relationship to the western hemisphere only accessible through the Two Row Wampum Peace Treaty).
+
+# **KERNEL**
+
+![Spiral Dev.png](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/Spiral%20Dev.png?raw=true)
 
 # Building Collabora
 Collabora documentation here: https://www.collaboraoffice.com/code/
