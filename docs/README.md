@@ -85,6 +85,8 @@ All that is needed is **DIALOGUE** through the Two Row Wampum Peace Treaty & wor
 ![Data](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/Data.jpg)
 
 # **PROsumption Systems**
+![PROsumption.png](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/PROsumption.png?raw=true)
+
 > This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**.
 
 > The former will largley happen outside of this specific project; in the Collections Project of Blockstack. There, schemas can be built out as innovative commons of technology that represents a two way dialogue between developers and folks who specialize in data. Collections schemas are focused on providing data portability. These schemas can be designed to lend themselves to MIDs & important paradigm shifts in what is considred *high value data*.
