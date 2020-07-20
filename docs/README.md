@@ -125,7 +125,7 @@
 
 [Miro Prototyping & Testing - Join Us!](https://miro.com/app/board/o9J_koieCFA=/)
 
-[Our Figma Prototyping So Far](https://miro.com/app/board/o9J_koieCFA=/)
+[Our Figma Prototyping]([https://www.figma.com/proto/HKlVS935fS7AFKBOk4Veu6/Build-it-in-Figma%3A-A-Responsive-Website-Navigation-(Community)?node-id=0%3A1&scaling=min-zoom](https://www.figma.com/proto/HKlVS935fS7AFKBOk4Veu6/Build-it-in-Figma%3A-A-Responsive-Website-Navigation-(Community)?node-id=0%3A1&scaling=min-zoom))
 
 **Smart Contract Prototyping Coming Soon :)**  
 
