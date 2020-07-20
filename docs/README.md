@@ -125,13 +125,11 @@
 
 [Miro Prototyping & Testing - Join Us!](https://miro.com/app/board/o9J_koieCFA=/)
 
-[Our Figma Prototyping]([https://www.figma.com/proto/HKlVS935fS7AFKBOk4Veu6/Build-it-in-Figma%3A-A-Responsive-Website-Navigation-(Community)?node-id=0%3A1&scaling=min-zoom](https://www.figma.com/proto/HKlVS935fS7AFKBOk4Veu6/Build-it-in-Figma%3A-A-Responsive-Website-Navigation-(Community)?node-id=0%3A1&scaling=min-zoom))
-
-**Smart Contract Prototyping Coming Soon :)**  
+[Our Figma Prototypes](https://www.figma.com/proto/HKlVS935fS7AFKBOk4Veu6/Build-it-in-Figma-A-Responsive-Website-Navigation-Community?node-id=58:0&scaling=min-zoom)
 
 
 
-> We will focus on building out a Two Row Wampum Social Layer Kit. Complete w/ blockchain infrastructure needed for implementation of above model described. Plan is for rapid project management with guidance by principles here: Rapid Project management cheat: at 28:18 https://vimeo.com/388201669
+> We will focus on building out a Two Row Wampum Social Layer Kit.Complete w/ blockchain infrastructure needed for implementation of above model described. Plan is for rapid project management with guidance by principles here: Rapid Project management cheat: at 28:18 https://vimeo.com/388201669  We are grateful & excited for this chance to build with KERNEL fellows.
 
 
 # Building Collabora
