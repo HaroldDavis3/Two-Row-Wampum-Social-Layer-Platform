@@ -31,7 +31,7 @@
 [**Indigenous Modes**](#Indigenous-Modes)
 
   
-[**KERNEL**](#KERNEL)
+[**KERNEL Updates**](#KERNEL-Updates)
 
   
 
@@ -119,9 +119,17 @@
 ![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg)
 > The model described above can be Extrapolated across fields & disciplines to create a tangible path away from conventional industrial extraction & towards artisanal & indigenous modes of production. This wide breadth of said novel monetization landscapes for those in Data or app development represents yet another opportunity & responsibility to build a viable ethical alternative to the ugly ecosystem of data monetization under web 2.0's surface; which is so comprehensive that it requires a wicked alternative equally as comprehensive. The infrastructure for which can be actively built starting immediately via model description above & Blockstack's Collections project. (Imperative to all the above working is ~governance~ which in an indigenous bottom up organization approach is better termed-**management**. 
 
-# **KERNEL**
+# **KERNEL Updates**
 
 ![Spiral Dev.png](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/docs/images/Spiral%20Dev.png?raw=true)
+
+[Miro Prototyping & Testing - Join Us!](https://miro.com/app/board/o9J_koieCFA=/)
+
+[Our Figma Prototyping So Far](https://miro.com/app/board/o9J_koieCFA=/)
+
+**Smart Contract Prototyping Coming Soon :)**  
+
+
 
 > We will focus on building out a Two Row Wampum Social Layer Kit. Complete w/ blockchain infrastructure needed for implementation of above model described. Plan is for rapid project management with guidance by principles here: Rapid Project management cheat: at 28:18 https://vimeo.com/388201669
 
