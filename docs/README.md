@@ -119,7 +119,7 @@
 ![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/raw/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg)
 > The model described above can be Extrapolated across fields & disciplines to create a tangible path away from conventional industrial extraction & towards artisanal & indigenous modes of production. This wide breadth of said novel monetization landscapes for those in Data or app development represents yet another opportunity & responsibility to build a viable ethical alternative to the ugly ecosystem of data monetization under web 2.0's surface; which is so comprehensive that it requires a wicked alternative equally as comprehensive. The infrastructure for which can be actively built starting immediately via model description above & Blockstack's Collections project. (Imperative to all the above working is ~governance~ which in an indigenous bottom up organization approach is better termed-**management**. 
 
-# **KERNEL Updates**> 
+# **KERNEL Updates** 
 [Corridor Newsletter!](https://harolddavisiii.substack.com/p/e9166ab8-0250-45b8-9e46-6af34c43e4b5)
 
 
