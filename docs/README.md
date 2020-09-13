@@ -98,9 +98,10 @@
   
 > This can enable a tangible path towards ethical forms of data collection monetization & app monetization through management of data (local & regional MIDs,DAOs) serve as public utilities. Data specialists & App developers in web 3.0 who adopt a systems design approach in this context can build apps and data services that serve critical roles in production, manufacturing, or distribution of prosumption based models. All data can be client side and encrypted for all involved in the systems model.
   
-# Example:**Prosumption based Systems Design Approach to MakeUp (Kits) Design**
+# Example: **Prosumption Systems Design Approach to MakeUp (Kits) Design**
 [![DOCUMENTATION GOALS!](http://img.youtube.com/vi/pd9GxmQbJ9U/0.jpg)](http://www.youtube.com/watch?v=pd9GxmQbJ9U)
-#Video ^^^
+
+See video above for brilliant example of the wealth of knowledge in manual pairing for closed loops of unalienated value(s) circulation.
 - **Production Facing**: AI/Data sets services & IoTs help optimize sustainable modes of production  needs of local & regional raw materials for MakeUp kits(regenerative **not** extractive, hence the AI for closed loops of value circulation!). App developers should also see responsibilities that come with building apps beyond surface levels of new landsccapes of revenue streams. Afterall these apps will be capable of onboarding, training, organizing, & managing **people and ecosystems**; along with securing the data of those people & ecosystems doing said production labor and or engineering.
 - **Manufacturing Facing**: AI/Data sets services & IoTs help optimize sustainable modes of manufacturing(regenerative **not** extractive, hence the AI for closed loops of value circulation!) of local & regional fabrication for MakeUp kits. Again here opportunity is presented along side an imperative responsibility. App developers should  see responsibilities that come with building apps beyond surface levels of-- new landscapes of revenue streams. After all, these apps will be capable of onboarding, training, organizing, & or managing **people and ecosystems**; along with securing the data of those people & ecosystems doing said production labor and or engineering.
 - **Distribution Facing**: Here app devs and folks in data get the combined opportunity and responsibility of reshaping supply chains and bringing in a paradigm shift away from end of life consumption through carefully designed systems approaches appropriate to varying circumstances of geographies & demographics.
