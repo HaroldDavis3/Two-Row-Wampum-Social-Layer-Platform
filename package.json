@@ -7,7 +7,7 @@
     "bootstrap": "^4.4.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.0.1",
     "typescript": "^3.8.3"
   },
